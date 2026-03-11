@@ -33,6 +33,3 @@ WHERE Department = 'HR';
 -- 7️⃣ Delete an employee (example: EmployeeID = 3)
 DELETE FROM Employees
 WHERE EmployeeID = 3;
-
-
-#commit
